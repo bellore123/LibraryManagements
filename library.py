@@ -1,1 +1,1 @@
-print("Student updated")
+print("student update")
